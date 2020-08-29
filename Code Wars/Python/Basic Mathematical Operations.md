@@ -19,5 +19,13 @@ basic_op('/', 49, 7)        # Output: 7
 ## Solution
 
 ```
-insert code
+def basic_op(operator, value1, value2):
+    if operator=='+':
+        return value1+value2
+    if operator=='-':
+        return value1-value2
+    if operator=='/':
+        return value1/value2
+    if operator=='*':
+        return value1*value2
 ```
