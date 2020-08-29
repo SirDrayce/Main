@@ -1,8 +1,8 @@
-###Convert a Boolean to a String
+### Convert a Boolean to a String
 
-##Kyu: 8
+## Kyu: 8
 
-#Instructions: Implement a function which convert the given boolean value into its string representation.
+# Instructions: Implement a function which convert the given boolean value into its string representation.
 
 
 [Python 3.6] Solution:
