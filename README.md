@@ -2,4 +2,4 @@
 
 Meh.
 
-[GitHub Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
